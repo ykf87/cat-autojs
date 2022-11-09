@@ -1,0 +1,10 @@
+{
+    "name": "多米猫",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.domecat.app",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
